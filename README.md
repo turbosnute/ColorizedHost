@@ -20,3 +20,6 @@ This is some text. The previous action was a success. Not an error or warning." 
 ```
 
 The same output as example 1, but this uses pipeline input.
+
+### Output
+![printscreen](colorizedhost.png)
